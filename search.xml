@@ -4,23 +4,23 @@
   
     
     <entry>
-      <title>三段论</title>
-      <link href="/2022/01/07/%E4%B8%89%E6%AE%B5%E8%AE%BA/"/>
-      <url>/2022/01/07/%E4%B8%89%E6%AE%B5%E8%AE%BA/</url>
+      <title>知识</title>
+      <link href="/2022/01/08/%E7%9F%A5%E8%AF%86/"/>
+      <url>/2022/01/08/%E7%9F%A5%E8%AF%86/</url>
       
-        <content type="html"><![CDATA[<p>&emsp;&emsp;本文将讨论批判思考分类下，逻辑思维的相关内容。三段论，是演绎法的核心论证形式。</p><span id="more"></span><p>&emsp;&emsp;三段论，是一个论证形式。它由三个子论断组成，前两个是前提，最后一个是结论。</p><!--~~~mermaidgraph TB0(三段论)0 --- 1((小前提))0 --- 2((大前提))1 --- P[结论-主项]1 --- M{中项}2 --- M2 --- S[结论-谓项]~~~--><pre class="mermaid" style="text-align: center;">            graph TB            0(三段论)0 --- 1((小前提))0 --- 2((大前提))1 --- P[结论-主项]1 --- M{中项}2 --- M2 --- S[结论-谓项]          </pre>]]></content>
+        <content type="html"><![CDATA[<p>&emsp;&emsp;本文将讨论教育专业分类下，个人笔记的相关内容。我们将讨论什么是知识，知识有哪些分类和功能，以及应该树立怎样的知识观。</p><span id="more"></span><h1 id="一、什么是知识"><a href="#一、什么是知识" class="headerlink" title="一、什么是知识"></a>一、什么是知识</h1><p>&emsp;&emsp;从本质上说，<span id="知识"><strong>知识(knowledge)</strong></span>，是人对事物属性与联系的能动反映，是通过人与客观事物的相互作用而形成的。</p><blockquote><p>人在与外界相互作用的现实活动中，获得来自客体的各种信息，用一定的方式对这些信息进行加工和组织，形成对事物的理解，从而形成知识。</p></blockquote><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>不同于<a href="#%E6%95%B0%E6%8D%AE">数据</a>和<a href="#%E4%BF%A1%E6%81%AF">信息</a>。</p><blockquote><p><span id="数据"><strong>数据(data)</strong></span>，是客观世界的、相对零散的事实，是信息的重要组成部分。</p></blockquote><blockquote><p><span id="信息"><strong>信息(information)</strong></span>，由一条条合乎语法、语义的消息组成，信息给知识的建构提供了必要的材料。</p></blockquote><p>所以<a href="#%E7%9F%A5%E8%AF%86">知识</a>从某种程度上说，是经过主观建构的信息，个人在加工信息、获得知识的过程加入了自己的某些观点和解释。信息本身是客观的、可以共享的，而知识却带有主观色彩，是以前<a href="#%E5%AD%A6%E4%B9%A0">学习</a>的结果，并影响以后的学习。</p><!--~~~mermaidgraph TB1(数据)1 --- 2((信息))2 --- 3((知识))1 --- 11[客观世界的事件]2 --- 21[收集数据]2 --- 22[赋予意义]3 --- 31[情景化]3 --- 32[赋予主观意义的信息]~~~--><pre class="mermaid" style="text-align: center;">            graph TB            1(数据)1 --> 2((信息))2 --> 3((知识))1 --- 11[客观世界的事件]2 --- 21[收集数据]2 --- 22[赋予意义]3 --- 31[情景化]3 --- 32[赋予主观意义的信息]          </pre><h1 id="二、具体谈谈知识"><a href="#二、具体谈谈知识" class="headerlink" title="二、具体谈谈知识"></a>二、具体谈谈知识</h1><h2 id="（一）知识的分类"><a href="#（一）知识的分类" class="headerlink" title="（一）知识的分类"></a>（一）知识的分类</h2><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>一方面存储在个体的头脑中，成为个体知识或主观知识，同时又可以通过文字符号等表述出来，传播开来，成为公共知识或客观知识，而人可以通过<a href="#%E5%AD%A6%E4%B9%A0">学习</a>和交往活动，借助于公共知识来发展自己的个体知识。</p><h2 id="（二）知识的功能"><a href="#（二）知识的功能" class="headerlink" title="（二）知识的功能"></a>（二）知识的功能</h2><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>具有三个方面的功能：<a href="#%E8%BE%A8%E5%88%AB%E5%8A%9F%E8%83%BD">辨别功能</a>、<a href="#%E9%A2%84%E6%9C%9F%E5%8A%9F%E8%83%BD">预期功能</a>和<a href="#%E8%B0%83%E8%8A%82%E5%8A%9F%E8%83%BD">调节功能</a>。</p><blockquote><p><span id="辨别功能"><strong>辨别功能</strong></span>，人可以根据有关知识对感受到的事物进行辨认和归类，从而对它们不再感到陌生。</p></blockquote><blockquote><p><span id="预期功能"><strong>预期功能</strong></span>，在具备了相应的知识时，人就可以通过推论对事物形成一定的预期，推知事物会是怎样的，它会怎样发展变化等。</p></blockquote><blockquote><p><span id="调节功能"><strong>调节功能</strong></span>，个体总在以自己的知识为基础来确定活动的程序，并对活动的实施过程进行监控和调节 。</p></blockquote><h1 id="三、怎样理解知识"><a href="#三、怎样理解知识" class="headerlink" title="三、怎样理解知识"></a>三、怎样理解知识</h1><h2 id="（一）知识与能力"><a href="#（一）知识与能力" class="headerlink" title="（一）知识与能力"></a>（一）知识与能力</h2><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>不简单等同于<a href="#%E8%83%BD%E5%8A%9B">能力</a>，但知识是能力发展的重要基础。能力，是更稳定的心理特性，对人的活动有更普遍、更一贯的调节作用，而能力的发展依赖于知识的获得。</p><blockquote><p><span id="能力"><strong>能力</strong></span>，是知识、技能进一步概括化和系统化而形成的高度整合性的心理结构，是个体通过对知识、技能的广泛迁移应用而实现的。</p></blockquote><h2 id="（二）知识与教育"><a href="#（二）知识与教育" class="headerlink" title="（二）知识与教育"></a>（二）知识与教育</h2><p>&emsp;&emsp;一般认为，<a href="#%E7%9F%A5%E8%AF%86">知识</a>是人们对实践经验或实践活动的认知成果，具有一定的稳定性和明确性，特别在教育领域中，各门学科所涉及的基本是该学科中较为确定、接近共识的内容，是人类积累下来的较为可靠的经验体系。</p><p>&emsp;&emsp;但是，这些<a href="#%E7%9F%A5%E8%AF%86">知识</a>并不是千真万确、不可质疑的定论，知识总在不断进化和更新，人总在试图对世界作出更准确、更完整、更深刻的理解和解释。</p><p>&emsp;&emsp;因此，在学校教育中，我们应该把<a href="#%E7%9F%A5%E8%AF%86">知识</a>当成是一种看法，一种解释，让学生去理解，去分析，去鉴别。知识是人对行为进行定向和调节的基础，是个体适应环境的重要因素。</p><!--ps. 后续我们还将继续讨论什么是学习，应该如何学习知识，以及又该如何将所学知识通过教学传播等。-->]]></content>
       
       
       <categories>
           
-          <category> 批判思考 </category>
+          <category> 教育专业 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 逻辑思维 </tag>
+            <tag> 个人笔记 </tag>
             
         </tags>
       
@@ -59,31 +59,6 @@
       <url>/2021/12/29/Top/</url>
       
         <content type="html"><![CDATA[<h1 id="在这个博客，你能……"><a href="#在这个博客，你能……" class="headerlink" title="在这个博客，你能……"></a>在这个博客，你能……</h1><p>1.从我的视角，看看<strong>社会和世界</strong>的样子。</p><p>2.从我的文章中，看到我<strong>看问题的思路</strong>。</p><p>3.留下您对于我提出的宝贵的<strong>意见</strong>「下方“阅读全文”中」</p><p>4.遇到有意思的话题，只跟我讨论不要<strong>告诉别人来这里</strong>「手动狗头」</p><span id="more"></span><h1 id="我为什么写博客？"><a href="#我为什么写博客？" class="headerlink" title="我为什么写博客？"></a>我为什么写博客？</h1><p>1.每日总结（英语，工作），自我监督，并开放所有人监督。</p><p>2.记录以后可能会用得到的东西（教程，心得，总结等）。</p><p>3.记录每天的生活和想法。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 工具说明 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试-流程图&amp;图床</title>
-      <link href="/2021/12/08/%E6%B5%81%E7%A8%8B%E5%9B%BE%E6%B5%8B%E8%AF%95/"/>
-      <url>/2021/12/08/%E6%B5%81%E7%A8%8B%E5%9B%BE%E6%B5%8B%E8%AF%95/</url>
-      
-        <content type="html"><![CDATA[<p>本文将测试<strong>流程图mermaid插件</strong>、<strong>Picgo图床</strong>和<strong>链接</strong>的使用效果，测试结果：流程图、图床和链接测试顺利。</p><span id="more"></span><h1 id="1-流程图测试01"><a href="#1-流程图测试01" class="headerlink" title="1. 流程图测试01"></a>1. 流程图测试01</h1><!--~~~ mermaidgraph TBA[把大象放进去] --- B{"冰箱小不小？"}B ---|不小| C[把冰箱门关上]B ---|小| D[换个大冰箱]~~~--><pre class="mermaid" style="text-align: center;">            graph TB            A[把大象放进去] --> B{"冰箱小不小？"}B -->|不小| C[把冰箱门关上]B -->|小| D[换个大冰箱]          </pre><h1 id="2-测试02"><a href="#2-测试02" class="headerlink" title="2. 测试02"></a>2. 测试02</h1><!--~~~ mermaidgraph TBStart(开始) --- Open[打开冰箱门]Open --- Put[把大象放进去]Put[把大象放进去] --- IsFit{"冰箱小不小？"}IsFit ---|不小| Close[把冰箱门关上]Close --- End(结束)IsFit ---|小| Change[换个大冰箱]Change --- Open~~~--><pre class="mermaid" style="text-align: center;">            graph TB            Start(开始) --> Open[打开冰箱门]Open --> Put[把大象放进去]Put[把大象放进去] --> IsFit{"冰箱小不小？"}IsFit -->|不小| Close[把冰箱门关上]Close --> End(结束)IsFit -->|小| Change[换个大冰箱]Change --> Open          </pre><h1 id="3-中文测试"><a href="#3-中文测试" class="headerlink" title="3. 中文测试"></a>3. 中文测试</h1><!--~~~ mermaidgraph LR起点(开始) --- 难关1{险阻}难关1 --- 难关2[高山]难关1 --- 难关3[深海]难关2 --- 终点((终点)) 难关3 --- 终点~~~--><pre class="mermaid" style="text-align: center;">            graph LR            起点(开始) --> 难关1{险阻}难关1 --> 难关2[高山]难关1 --> 难关3[深海]难关2 --> 终点((终点)) 难关3 --> 终点          </pre><h1 id="4-图床测试"><a href="#4-图床测试" class="headerlink" title="4. 图床测试"></a>4. 图床测试</h1><p><img src="https://cdn.jsdelivr.net/gh/leonuxzy/image/images/20211208114855.png" alt="MarkDown快捷键" title="图片标题"></p><h1 id="5-锚点和网络链接测试"><a href="#5-锚点和网络链接测试" class="headerlink" title="5. 锚点和网络链接测试"></a>5. 锚点和网络链接测试</h1><p><span id="1">目标位置</span>，是最终要回到的位置。</p><p>中间，可以有许多的阐述文字。</p><p>然后，当再次出现<a href="#1">目标位置</a>的时候，可以通过点击，再次返回刚才的位置。</p><p>接下来，要测试的是网页链接。当打出“，wl”时，可以通过点击<a href="https://leonuxzy.github.io/2021/07/17/%E6%96%BD%E4%B8%80%E5%85%AC">施一公</a>，打开需要的网页，此处需注意不要漏掉时间的“0”位。</p><p>最后，此处将测试<a href="https://leonuxzy.github.io/2021/06/12/Vnote%E5%BF%AB%E6%8D%B7%E9%94%AE/#2">跨页锚点</a>。</p>]]></content>
       
       
       <categories>
