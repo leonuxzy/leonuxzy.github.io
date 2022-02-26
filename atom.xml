@@ -6,7 +6,7 @@
   <link href="https://leonuxzy.github.io/atom.xml" rel="self"/>
   
   <link href="https://leonuxzy.github.io/"/>
-  <updated>2022-01-09T03:57:45.481Z</updated>
+  <updated>2022-01-22T16:03:30.979Z</updated>
   <id>https://leonuxzy.github.io/</id>
   
   <author>
@@ -17,23 +17,53 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>知识</title>
-    <link href="https://leonuxzy.github.io/2022/01/08/%E7%9F%A5%E8%AF%86/"/>
-    <id>https://leonuxzy.github.io/2022/01/08/%E7%9F%A5%E8%AF%86/</id>
-    <published>2022-01-08T10:23:07.000Z</published>
-    <updated>2022-01-09T03:57:45.481Z</updated>
+    <title>教育研究引论</title>
+    <link href="https://leonuxzy.github.io/2022/01/20/%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E7%90%86%E8%AE%BA%E7%95%8C%E5%AE%9A/"/>
+    <id>https://leonuxzy.github.io/2022/01/20/%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E7%90%86%E8%AE%BA%E7%95%8C%E5%AE%9A/</id>
+    <published>2022-01-20T15:00:00.000Z</published>
+    <updated>2022-01-22T16:03:30.979Z</updated>
     
-    <content type="html"><![CDATA[<p>&emsp;&emsp;本文将讨论教育专业分类下，个人笔记的相关内容。我们将讨论什么是知识，知识有哪些分类和功能，以及应该树立怎样的知识观。</p><span id="more"></span><h1 id="一、什么是知识"><a href="#一、什么是知识" class="headerlink" title="一、什么是知识"></a>一、什么是知识</h1><p>&emsp;&emsp;从本质上说，<span id="知识"><strong>知识(knowledge)</strong></span>，是人对事物属性与联系的能动反映，是通过人与客观事物的相互作用而形成的。</p><blockquote><p>人在与外界相互作用的现实活动中，获得来自客体的各种信息，用一定的方式对这些信息进行加工和组织，形成对事物的理解，从而形成知识。</p></blockquote><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>不同于<a href="#%E6%95%B0%E6%8D%AE">数据</a>和<a href="#%E4%BF%A1%E6%81%AF">信息</a>。</p><blockquote><p><span id="数据"><strong>数据(data)</strong></span>，是客观世界的、相对零散的事实，是信息的重要组成部分。</p></blockquote><blockquote><p><span id="信息"><strong>信息(information)</strong></span>，由一条条合乎语法、语义的消息组成，信息给知识的建构提供了必要的材料。</p></blockquote><p>所以<a href="#%E7%9F%A5%E8%AF%86">知识</a>从某种程度上说，是经过主观建构的信息，个人在加工信息、获得知识的过程加入了自己的某些观点和解释。信息本身是客观的、可以共享的，而知识却带有主观色彩，是以前<a href="#%E5%AD%A6%E4%B9%A0">学习</a>的结果，并影响以后的学习。</p><!--~~~mermaidgraph TB1(数据)1 --- 2((信息))2 --- 3((知识))1 --- 11[客观世界的事件]2 --- 21[收集数据]2 --- 22[赋予意义]3 --- 31[情景化]3 --- 32[赋予主观意义的信息]~~~--><pre class="mermaid" style="text-align: center;">            graph TB            1(数据)1 --> 2((信息))2 --> 3((知识))1 --- 11[客观世界的事件]2 --- 21[收集数据]2 --- 22[赋予意义]3 --- 31[情景化]3 --- 32[赋予主观意义的信息]          </pre><h1 id="二、具体谈谈知识"><a href="#二、具体谈谈知识" class="headerlink" title="二、具体谈谈知识"></a>二、具体谈谈知识</h1><h2 id="（一）知识的分类"><a href="#（一）知识的分类" class="headerlink" title="（一）知识的分类"></a>（一）知识的分类</h2><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>一方面存储在个体的头脑中，成为个体知识或主观知识，同时又可以通过文字符号等表述出来，传播开来，成为公共知识或客观知识，而人可以通过<a href="#%E5%AD%A6%E4%B9%A0">学习</a>和交往活动，借助于公共知识来发展自己的个体知识。</p><h2 id="（二）知识的功能"><a href="#（二）知识的功能" class="headerlink" title="（二）知识的功能"></a>（二）知识的功能</h2><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>具有三个方面的功能：<a href="#%E8%BE%A8%E5%88%AB%E5%8A%9F%E8%83%BD">辨别功能</a>、<a href="#%E9%A2%84%E6%9C%9F%E5%8A%9F%E8%83%BD">预期功能</a>和<a href="#%E8%B0%83%E8%8A%82%E5%8A%9F%E8%83%BD">调节功能</a>。</p><blockquote><p><span id="辨别功能"><strong>辨别功能</strong></span>，人可以根据有关知识对感受到的事物进行辨认和归类，从而对它们不再感到陌生。</p></blockquote><blockquote><p><span id="预期功能"><strong>预期功能</strong></span>，在具备了相应的知识时，人就可以通过推论对事物形成一定的预期，推知事物会是怎样的，它会怎样发展变化等。</p></blockquote><blockquote><p><span id="调节功能"><strong>调节功能</strong></span>，个体总在以自己的知识为基础来确定活动的程序，并对活动的实施过程进行监控和调节 。</p></blockquote><h1 id="三、怎样理解知识"><a href="#三、怎样理解知识" class="headerlink" title="三、怎样理解知识"></a>三、怎样理解知识</h1><h2 id="（一）知识与能力"><a href="#（一）知识与能力" class="headerlink" title="（一）知识与能力"></a>（一）知识与能力</h2><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>不简单等同于<a href="#%E8%83%BD%E5%8A%9B">能力</a>，但知识是能力发展的重要基础。能力，是更稳定的心理特性，对人的活动有更普遍、更一贯的调节作用，而能力的发展依赖于知识的获得。</p><blockquote><p><span id="能力"><strong>能力</strong></span>，是知识、技能进一步概括化和系统化而形成的高度整合性的心理结构，是个体通过对知识、技能的广泛迁移应用而实现的。</p></blockquote><h2 id="（二）知识与教育"><a href="#（二）知识与教育" class="headerlink" title="（二）知识与教育"></a>（二）知识与教育</h2><p>&emsp;&emsp;一般认为，<a href="#%E7%9F%A5%E8%AF%86">知识</a>是人们对实践经验或实践活动的认知成果，具有一定的稳定性和明确性，特别在教育领域中，各门学科所涉及的基本是该学科中较为确定、接近共识的内容，是人类积累下来的较为可靠的经验体系。</p><p>&emsp;&emsp;但是，这些<a href="#%E7%9F%A5%E8%AF%86">知识</a>并不是千真万确、不可质疑的定论，知识总在不断进化和更新，人总在试图对世界作出更准确、更完整、更深刻的理解和解释。</p><p>&emsp;&emsp;因此，在学校教育中，我们应该把<a href="#%E7%9F%A5%E8%AF%86">知识</a>当成是一种看法，一种解释，让学生去理解，去分析，去鉴别。知识是人对行为进行定向和调节的基础，是个体适应环境的重要因素。</p><!--ps. 后续我们还将继续讨论什么是学习，应该如何学习知识，以及又该如何将所学知识通过教学传播等。-->]]></content>
+    <content type="html"><![CDATA[<p>&emsp;&emsp;本文将讨论教育专业分类下，基础概念的相关内容。</p><pre class="mermaid" style="text-align: center;">            graph TB            引论(教育研究)引论 --- 科学[科学]引论 --- 教育[教育]引论 --- 方法[方法]引论 --- 研究[研究]引论 --- 过程[过程]          </pre><span id="more"></span><!--&emsp;&emsp;在你面前展开的是一本崭新的教育研究教材。你很快就会发现，它与各种关于教育研究方法的著作、教材有很大的不同。在本书中，各种研究方法被组织在一个有着明确逻辑关系的研究过程之中。你与它们相熟识，并熟练地在研究中运用，就像吃饭时使用筷子一样。你会感到，它们是你做教育研究不可缺少的，但你从不需要为如何遵循和使用它们而分心，因为它们已经内化为你的研究素养的一部分，所以，你可以专心致志于教育研究的需要，去寻求研究问题的合理解释。其实，做到这一点不是一件容易的事情。这正是本书作者精心设计和长期探索所期望的结果。&emsp;&emsp;在这个探索过程中，我们始终坚持了以严格的科学态度对待教育研究，无论是面对重大的方法论问题还是深入到某一概念、术语或方法的理解，都要求绝不放弃对内涵和实质的把握，这样，关于教育研究的一切，才会成为一种意识品质始终伴随着你。这意味着学习本教材也将经历艰苦的过程，但是艰苦过后方可得到真正的收获。那时，你会感受到真实拥有大学学术生活的充实和幸福。&emsp;&emsp;本书的结构和内容体现着我们为建设这一课程而采取的独特的理念。这主要表现在以下几个方面。&emsp;&emsp;一是方法的组织在研究过程中的研究取向。与国内大部分同类教材所秉持的方法取向不同，本教材的落脚点是“研究”而不是“方法”，注重以研究的序列逻辑而不是以方法的序列逻辑展开，从教育研究的实际过程来设计和组织教学，把方法的教学组织在研究过程之中，并期望养成一种研究的态度。&emsp;&emsp;二是注重培养“做”教育研究的实践取向。一方面，本书建设的基本理论前提是马克思主义的实践哲学与现象学运动的实践走向，强调教育在本质上是实践的，研究的展开应依循实践的逻辑；另一方面，注重培养“做”教育研究的意识和能力，务求通过本书的学习，一定要能“做”教育研究。本书的结构与内容及课程教学中所设置的实践环节都体现了这一点。&emsp;&emsp;三是体现当前教育研究范式的混合取向。一方面，本书建设跨越了流行的质性研究与定量研究的区分，主张把定性的方法和定量的方法组织在一起研究同一个问题；另一方面，就某一具体的方法而言，强调研究方法本身的混合性。混合取向是研究取向与实践取向的自然延伸，目的是使这两种教育研究范式实在地合二为一，从而更坚实地立足于“研究”与“问题”。&emsp;&emsp;四是凸显教育学专业的理论取向。当研究方法可以依据研究的需要而相互嵌套使用时，重要的便不是单一的研究方法，而是各种研究方法如何有效地组织在一起。在教育研究中能够有效地把各种研究方法组织在一起的是教育学的专业理论。本书中，各种研究方法并没有被取消，它们只是被相对地改变了地位——从一种具有规定性的支配地位转向趋近于局部细节和服从的地位，研究方法在教育研究中的组织与运用服从于研究所需要的教育学的专业理论。如果教育学的专业理论不能为我们的研究提供有效支持，那么，需要着手去建构起支持的理论而不是乞灵于方法的神奇。这是一个值得坚持的根本秩序。方法即便有点石成金的神奇，其所得也只是点化成金之石，而非原本之真金。在这样一个根本秩序的坚持中，教育学的专业理论才能真正建立并体现出它作为专业理论的坚强品质和实践意义。&emsp;&emsp;也许，我们不可避免地需要回答这样的问题：本书所坚持的建设理念是否适用于教材，特别是本科教材的建设？由此而及，本书的结构和内容对于本科阶段的教学是否过于艰深，过于学术化了？我们愿意在此表明我们的意见。&emsp;&emsp;首先，这里涉及对于本科教学理解的定位。学术是大学的本分。本科阶段是学术生涯的开始，造就这样一个开始是本科教育不可推卸的责任。学术乃学而有道之谓，因此，关键的问题在于是否合乎学术之道。合者，虽有艰难亦必趋之；不合，虽可浅尝亦不可迁就。&emsp;&emsp;其次，本书全部内容的艰难程度实无超过本科阶段数学、物理、哲学诸本科专业学科之处，并仍远有不及，甚至就深思精研而言，几乎未有超过小学算术四则运算应用题之处。&emsp;&emsp;本书之难，难在坚持严格的科学态度，坚持理论、逻辑、实践的力量，这些原本是大学的学术、学习所必不可少的。若以“上课记笔记、考试背笔记、考完全忘记”而言，或可责以艰难，但这正是我们所努力追求的。本书付梓之前，已作为讲义多年用于本科生、硕士研究生的《教育研究方法》课程，该课程在2008年荣获北京市高校精品课程。我们对讲义几经修改，最终成稿。实际的教学效果是本科生完全能够适应本教材的学习，且取得优异成绩，并深有体会。--><h1 id="一、科学是什么"><a href="#一、科学是什么" class="headerlink" title="一、科学是什么"></a>一、科学是什么</h1><p>&emsp;&emsp;<a href="#%E7%A7%91%E5%AD%A6">科学</a>是什么？</p><blockquote><p><span id="科学"><strong>科学</strong></span>，<br>是由一系列概念、判断构成的具有严密逻辑性的包含规律性知识的理论体系，<br>是人类认识世界的成律性知识的理论体系，<br>是人类认识世界的成果。</p></blockquote><p>&emsp;&emsp;具体到<a href="#%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6">教育科学</a>，又是指什么？</p><blockquote><p><span id="教育科学"><strong>教育科学</strong></span>，<br>是正确反映教育领域内客观事物的关系和规律的知识体系，<br>是人类教育实践经验的总结和概括，并将随着教育实践的发展而不断发展。</p></blockquote><h1 id="二、教育是什么"><a href="#二、教育是什么" class="headerlink" title="二、教育是什么"></a>二、教育是什么</h1><p>&emsp;&emsp;<a href="#%E6%95%99%E8%82%B2">教育</a>是什么，在此，我们给教育下一个定义。</p><blockquote><p><span id="教育"><strong>教育</strong></span>，<br>是在一定社会背景下发生的，促进个体的社会化和社会的个性化的实践活动。</p></blockquote><h1 id="三、方法是什么"><a href="#三、方法是什么" class="headerlink" title="三、方法是什么"></a>三、方法是什么</h1><p>&emsp;&emsp;<a href="#%E6%96%B9%E6%B3%95">方法（Method）</a>是对研究活动本身的反思，其实质在于规律的运用，遵循规律就成了方法。<a href="#%E6%96%B9%E6%B3%95%E8%AE%BA">方法论（Methodology）</a>，则是关于认识世界和改造世界的方法的理论，是方法的体系。</p><blockquote><p><span id="方法"><strong>方法</strong></span>，<br>是作为一般的思维方式和行为方式，<br>研究问题的一般程序和准则。</p></blockquote><!--<span id="方法论">**方法论**</span>--><h1 id="四、研究是什么"><a href="#四、研究是什么" class="headerlink" title="四、研究是什么"></a>四、研究是什么</h1><p>&emsp;&emsp;那么，什么是研究？</p><pre class="mermaid" style="text-align: center;">            graph TB            研究(研究)研究 --- 客观事实[客观事实]研究 --- 科学理论[科学理论]研究 --- 方法技术[方法技术]客观事实 --- 解释((解释))科学理论 --- 预测((预测))方法技术 --- 控制((控制))          </pre><p>&emsp;&emsp;<a href="#%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6">教育研究</a>，与所有科学研究一样，同样由三个基本要素组成，只不过是研究对象的特点不同。</p><blockquote><p><span id="教育研究"><strong>教育研究</strong></span>，<br>是以发现或发展科学知识体系为导向，<br>通过对教育现象的解释、预测和控制，<br>以促进一般化原理、原则的发展。</p></blockquote><h1 id="五、教育研究过程"><a href="#五、教育研究过程" class="headerlink" title="五、教育研究过程"></a>五、教育研究过程</h1><p>&emsp;&emsp;研究过程的序列主要由起始过程、形成过程和分析-结论过程三个先后接续的过程构成。具体如图：</p><pre class="mermaid" style="text-align: center;">            graph TB            研究开始(研究开始)形成研究资料(形成研究资料)subgraph 起始过程选题[选题]选题 --> 理论界定[理论界定]理论界定 --> 研究设计[研究设计]endsubgraph 形成过程个案方式[个案方式]测量方式[测量方式]干预方式[干预方式]个案方式 --- 观察((观察))个案方式 --- 访谈((访谈))个案方式 --- 写作((写作))测量方式 --- 问卷((问卷))测量方式 --- 结构观察((结构观察))干预方式 --- 实验((实验))干预方式 --- 行动研究((行动研究))endsubgraph 分析-结论统计分析[统计分析]质性分析[质性分析]统计分析 --> 结果[结果]质性分析 --> 结果结果 --> 研究结论[研究结论]研究结论 --- 研究报告[研究报告]研究结论 --- 讨论[讨论]end研究开始 --> 选题研究设计 --- 个案方式研究设计 --- 测量方式研究设计 --- 干预方式观察[观察] --> 形成研究资料访谈[访谈] --> 形成研究资料写作[写作] --> 形成研究资料问卷[问卷] --> 形成研究资料结构观察[结构观察] --> 形成研究资料实验[实验] --> 形成研究资料行动研究[行动研究] --> 形成研究资料形成研究资料 --- 统计分析形成研究资料 --- 质性分析          </pre>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;本文将讨论教育专业分类下，个人笔记的相关内容。我们将讨论什么是知识，知识有哪些分类和功能，以及应该树立怎样的知识观。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;本文将讨论教育专业分类下，基础概念的相关内容。&lt;/p&gt;
+&lt;pre class=&quot;mermaid&quot; style=&quot;text-align: center;&quot;&gt;
+            graph TB
+            引论(教育研究)
+引论 --- 科学[科学]
+引论 --- 教育[教育]
+引论 --- 方法[方法]
+引论 --- 研究[研究]
+引论 --- 过程[过程]
+          &lt;/pre&gt;</summary>
     
     
     
     <category term="教育专业" scheme="https://leonuxzy.github.io/categories/%E6%95%99%E8%82%B2%E4%B8%93%E4%B8%9A/"/>
     
     
-    <category term="个人笔记" scheme="https://leonuxzy.github.io/tags/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/"/>
+    <category term="基础概念" scheme="https://leonuxzy.github.io/tags/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>知识</title>
+    <link href="https://leonuxzy.github.io/2022/01/08/%E7%9F%A5%E8%AF%86/"/>
+    <id>https://leonuxzy.github.io/2022/01/08/%E7%9F%A5%E8%AF%86/</id>
+    <published>2022-01-08T10:23:07.000Z</published>
+    <updated>2022-01-22T16:03:29.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;本文将讨论教育专业分类下，基础概念的相关内容。我们将讨论什么是知识，知识有哪些分类和功能，以及应该树立怎样的知识观。</p><span id="more"></span><h1 id="一、什么是知识"><a href="#一、什么是知识" class="headerlink" title="一、什么是知识"></a>一、什么是知识</h1><p>&emsp;&emsp;从本质上说，<span id="知识"><strong>知识(knowledge)</strong></span>，是人对事物属性与联系的能动反映，是通过人与客观事物的相互作用而形成的。</p><blockquote><p>人在与外界相互作用的现实活动中，获得来自客体的各种信息，用一定的方式对这些信息进行加工和组织，形成对事物的理解，从而形成知识。</p></blockquote><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>不同于<a href="#%E6%95%B0%E6%8D%AE">数据</a>和<a href="#%E4%BF%A1%E6%81%AF">信息</a>。</p><blockquote><p><span id="数据"><strong>数据(data)</strong></span>，是客观世界的、相对零散的事实，是信息的重要组成部分。</p></blockquote><blockquote><p><span id="信息"><strong>信息(information)</strong></span>，由一条条合乎语法、语义的消息组成，信息给知识的建构提供了必要的材料。</p></blockquote><p>所以<a href="#%E7%9F%A5%E8%AF%86">知识</a>从某种程度上说，是经过主观建构的信息，个人在加工信息、获得知识的过程加入了自己的某些观点和解释。信息本身是客观的、可以共享的，而知识却带有主观色彩，是以前<a href="#%E5%AD%A6%E4%B9%A0">学习</a>的结果，并影响以后的学习。</p><!--~~~mermaidgraph TB1(数据)1 --- 2((信息))2 --- 3((知识))1 --- 11[客观世界的事件]2 --- 21[收集数据]2 --- 22[赋予意义]3 --- 31[情景化]3 --- 32[赋予主观意义的信息]~~~--><pre class="mermaid" style="text-align: center;">            graph TB            1(数据)1 --> 2((信息))2 --> 3((知识))1 --- 11[客观世界的事件]2 --- 21[收集数据]2 --- 22[赋予意义]3 --- 31[情景化]3 --- 32[赋予主观意义的信息]          </pre><h1 id="二、具体谈谈知识"><a href="#二、具体谈谈知识" class="headerlink" title="二、具体谈谈知识"></a>二、具体谈谈知识</h1><h2 id="（一）知识的分类"><a href="#（一）知识的分类" class="headerlink" title="（一）知识的分类"></a>（一）知识的分类</h2><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>一方面存储在个体的头脑中，成为个体知识或主观知识，同时又可以通过文字符号等表述出来，传播开来，成为公共知识或客观知识，而人可以通过<a href="#%E5%AD%A6%E4%B9%A0">学习</a>和交往活动，借助于公共知识来发展自己的个体知识。</p><h2 id="（二）知识的功能"><a href="#（二）知识的功能" class="headerlink" title="（二）知识的功能"></a>（二）知识的功能</h2><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>具有三个方面的功能：<a href="#%E8%BE%A8%E5%88%AB%E5%8A%9F%E8%83%BD">辨别功能</a>、<a href="#%E9%A2%84%E6%9C%9F%E5%8A%9F%E8%83%BD">预期功能</a>和<a href="#%E8%B0%83%E8%8A%82%E5%8A%9F%E8%83%BD">调节功能</a>。</p><blockquote><p><span id="辨别功能"><strong>辨别功能</strong></span>，人可以根据有关知识对感受到的事物进行辨认和归类，从而对它们不再感到陌生。</p></blockquote><blockquote><p><span id="预期功能"><strong>预期功能</strong></span>，在具备了相应的知识时，人就可以通过推论对事物形成一定的预期，推知事物会是怎样的，它会怎样发展变化等。</p></blockquote><blockquote><p><span id="调节功能"><strong>调节功能</strong></span>，个体总在以自己的知识为基础来确定活动的程序，并对活动的实施过程进行监控和调节 。</p></blockquote><h1 id="三、怎样理解知识"><a href="#三、怎样理解知识" class="headerlink" title="三、怎样理解知识"></a>三、怎样理解知识</h1><h2 id="（一）知识与能力"><a href="#（一）知识与能力" class="headerlink" title="（一）知识与能力"></a>（一）知识与能力</h2><p>&emsp;&emsp;<a href="#%E7%9F%A5%E8%AF%86">知识</a>不简单等同于<a href="#%E8%83%BD%E5%8A%9B">能力</a>，但知识是能力发展的重要基础。能力，是更稳定的心理特性，对人的活动有更普遍、更一贯的调节作用，而能力的发展依赖于知识的获得。</p><blockquote><p><span id="能力"><strong>能力</strong></span>，是知识、技能进一步概括化和系统化而形成的高度整合性的心理结构，是个体通过对知识、技能的广泛迁移应用而实现的。</p></blockquote><h2 id="（二）知识与教育"><a href="#（二）知识与教育" class="headerlink" title="（二）知识与教育"></a>（二）知识与教育</h2><p>&emsp;&emsp;一般认为，<a href="#%E7%9F%A5%E8%AF%86">知识</a>是人们对实践经验或实践活动的认知成果，具有一定的稳定性和明确性，特别在教育领域中，各门学科所涉及的基本是该学科中较为确定、接近共识的内容，是人类积累下来的较为可靠的经验体系。</p><p>&emsp;&emsp;但是，这些<a href="#%E7%9F%A5%E8%AF%86">知识</a>并不是千真万确、不可质疑的定论，知识总在不断进化和更新，人总在试图对世界作出更准确、更完整、更深刻的理解和解释。</p><p>&emsp;&emsp;因此，在学校教育中，我们应该把<a href="#%E7%9F%A5%E8%AF%86">知识</a>当成是一种看法，一种解释，让学生去理解，去分析，去鉴别。知识是人对行为进行定向和调节的基础，是个体适应环境的重要因素。</p><!--ps. 后续我们还将继续讨论什么是学习，应该如何学习知识，以及又该如何将所学知识通过教学传播等。-->]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;本文将讨论教育专业分类下，基础概念的相关内容。我们将讨论什么是知识，知识有哪些分类和功能，以及应该树立怎样的知识观。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教育专业" scheme="https://leonuxzy.github.io/categories/%E6%95%99%E8%82%B2%E4%B8%93%E4%B8%9A/"/>
+    
+    
+    <category term="基础概念" scheme="https://leonuxzy.github.io/tags/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/"/>
     
   </entry>
   
@@ -63,16 +93,17 @@
     <link href="https://leonuxzy.github.io/2021/12/29/Top/"/>
     <id>https://leonuxzy.github.io/2021/12/29/Top/</id>
     <published>2021-12-29T14:17:10.000Z</published>
-    <updated>2022-01-15T08:13:04.854Z</updated>
+    <updated>2022-01-15T08:52:28.484Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="在这里，你可以："><a href="#在这里，你可以：" class="headerlink" title="在这里，你可以："></a>在这里，你可以：</h1><ul><li>&emsp;&emsp;从我的视角，看看生活和社会的样子。</li><li>&emsp;&emsp;通过文章，了解到我的态度和观点。</li><li>&emsp;&emsp;留下您的思考和意见。（评论请点击下方「<strong>阅读全文</strong>」）</li><li>&emsp;&emsp;您还可以在评论区与我分享有关于你的故事。</li></ul><span id="more"></span><h1 id="关于我："><a href="#关于我：" class="headerlink" title="关于我："></a>关于我：</h1><p>&emsp;&emsp;我，是一名正处于上升期的准教育学研究生。</p><p>&emsp;&emsp;首先，<a href="https://leonuxzy.github.io/">学习之路</a>是我用于更新日常收获的网站。它不仅涵盖我的学习所得，还包括一些个人生活感悟。</p><p>&emsp;&emsp;其次，出于对“人”的感兴趣，我选择学习和从事与教育相关的事。因此，大部分的文章可能都是关于教育的思考。然而这不意味着我的兴趣仅此而已，除了上述的方面，我还对音乐和编程相关的事情也很感兴趣。这些对生活的热爱，促使着我可以更加努力地学习、工作和照顾家庭。</p><p>&emsp;&emsp;然后，如果你感兴趣，可以点击左侧栏「<strong>归档</strong>」，了解一下我最近更新的文章。</p><p>&emsp;&emsp;最后，您可以在评论区留言，或者点击左侧栏「<strong>Email</strong>」与我交流。</p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到我的博客！</p><h1 id="在这里，你可以："><a href="#在这里，你可以：" class="headerlink" title="在这里，你可以："></a>在这里，你可以：</h1><ul><li>从我的视角，看看生活和社会的样子。</li><li>通过文章，了解到我的态度和观点。</li><li>留下您的思考和意见。（评论请点击下方「<strong>阅读全文</strong>」）</li><li>您还可以在评论区与我分享有关于你的故事。</li></ul><span id="more"></span><h1 id="关于我："><a href="#关于我：" class="headerlink" title="关于我："></a>关于我：</h1><p>&emsp;&emsp;我，是一名正处于上升期的准教育学研究生。</p><p>&emsp;&emsp;首先，<a href="https://leonuxzy.github.io/">学习之路</a>是我用于更新日常收获的网站。它不仅涵盖我的学习所得，还包括一些个人生活感悟。</p><p>&emsp;&emsp;其次，出于对“人”的感兴趣，我选择学习和从事与教育相关的事。因此，大部分的文章可能都是关于教育的思考。然而这不意味着我的兴趣仅此而已，除了上述的方面，我还对音乐和编程相关的事情也很感兴趣。这些对生活的热爱，促使着我可以更加努力地学习、工作和照顾家庭。</p><p>&emsp;&emsp;然后，如果你感兴趣，可以点击左侧栏「<strong>归档</strong>」，了解一下我最近更新的文章。</p><p>&emsp;&emsp;最后，您可以在评论区留言，或者点击左侧栏「<strong>Email</strong>」与我交流。</p>]]></content>
     
     
-    <summary type="html">&lt;h1 id=&quot;在这里，你可以：&quot;&gt;&lt;a href=&quot;#在这里，你可以：&quot; class=&quot;headerlink&quot; title=&quot;在这里，你可以：&quot;&gt;&lt;/a&gt;在这里，你可以：&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&amp;emsp;&amp;emsp;从我的视角，看看生活和社会的样子。&lt;/li&gt;
-&lt;li&gt;&amp;emsp;&amp;emsp;通过文章，了解到我的态度和观点。&lt;/li&gt;
-&lt;li&gt;&amp;emsp;&amp;emsp;留下您的思考和意见。（评论请点击下方「&lt;strong&gt;阅读全文&lt;/strong&gt;」）&lt;/li&gt;
-&lt;li&gt;&amp;emsp;&amp;emsp;您还可以在评论区与我分享有关于你的故事。&lt;/li&gt;
+    <summary type="html">&lt;p&gt;欢迎来到我的博客！&lt;/p&gt;
+&lt;h1 id=&quot;在这里，你可以：&quot;&gt;&lt;a href=&quot;#在这里，你可以：&quot; class=&quot;headerlink&quot; title=&quot;在这里，你可以：&quot;&gt;&lt;/a&gt;在这里，你可以：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;从我的视角，看看生活和社会的样子。&lt;/li&gt;
+&lt;li&gt;通过文章，了解到我的态度和观点。&lt;/li&gt;
+&lt;li&gt;留下您的思考和意见。（评论请点击下方「&lt;strong&gt;阅读全文&lt;/strong&gt;」）&lt;/li&gt;
+&lt;li&gt;您还可以在评论区与我分享有关于你的故事。&lt;/li&gt;
 &lt;/ul&gt;</summary>
     
     
