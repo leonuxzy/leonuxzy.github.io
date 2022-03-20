@@ -271,224 +271,230 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>  本文将讨论工具说明分类下，vscode的相关内容。本文为Markdown文件的Snippet配置。
-<span id="more"></span></p>
-<p>{ // Place your 全局 snippets here. Each snippet is defined under a
-snippet name and has a scope, prefix, body and // description. Add comma
-separated ids of the languages where the snippet is applicable in the
-scope field. If scope // is left empty or omitted, the snippet gets
-applied to all languages. The prefix is what is // used to trigger the
-snippet and the body will be expanded and inserted. Possible variables
-are: // $1, $2 for tab stops, $0 for the final cursor position, and
-${1:label}, ${2:another} for placeholders. // Placeholders with the same
-ids are connected. // Example: // "Print to console": { // "scope":
-"javascript,typescript", // "prefix": "log", // "body": [ //
-"console.log('$1');", // "$2" // ], // "description": "Log output to
-console" // }</p>
+        <p>  本文将讨论工具说明分类下，vscode的相关内容。本文为Markdown文件的Snippet配置。</p>
+<span id="more"></span>
+<p>{<br />
+// Place your 全局 snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and<br />
+// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope<br />
+// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is<br />
+// used to trigger the snippet and the body will be expanded and inserted. Possible variables are:<br />
+// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders.<br />
+// Placeholders with the same ids are connected.<br />
+// Example:<br />
+// “Print to console”: {<br />
+// 	“scope”: “javascript,typescript”,<br />
+// 	“prefix”: “log”,<br />
+// 	“body”: [<br />
+// 		“console.log(’$1’);”,<br />
+// 		“$2”<br />
+// 	],<br />
+// 	“description”: “Log output to console”<br />
+// }</p>
 <pre><code>&quot;Snippet&quot;: &#123;
-    &quot;prefix&quot;: &quot;，pd&quot;,
-    &quot;body&quot;: &quot;   \&quot;$1\&quot;: &#123;\n     \&quot;prefix\&quot;: \&quot;$2\&quot;,\n       \&quot;body\&quot;: \&quot;$3\&quot;,\n     \&quot;description\&quot;: \&quot;$1\&quot;\n   &#125;\n\n$0&quot;,
-    &quot;description&quot;: &quot;片段&quot;
+	&quot;prefix&quot;: &quot;，pd&quot;,
+	&quot;body&quot;: &quot;	\&quot;$1\&quot;: &#123;\n		\&quot;prefix\&quot;: \&quot;$2\&quot;,\n		\&quot;body\&quot;: \&quot;$3\&quot;,\n		\&quot;description\&quot;: \&quot;$1\&quot;\n	&#125;\n\n$0&quot;,
+	&quot;description&quot;: &quot;片段&quot;
 &#125;
 
 &quot;博客信息&quot;: &#123;
-    &quot;prefix&quot;: &quot;，bkx&quot;,
-    &quot;body&quot;: &quot;---\ntitle: $1\ndate: $2\ncategories: [&#39;$3&#39;]\ntags: $4\nhidden: true\n---\n&amp;emsp;&amp;emsp;本文将讨论$3分类下，$4的相关内容。$5\n&lt;!--more--&gt;\n&quot;,
-    &quot;description&quot;: &quot;博客信息&quot;
+	&quot;prefix&quot;: &quot;，bkx&quot;,
+	&quot;body&quot;: &quot;---\ntitle: $1\ndate: $2\ncategories: ['$3']\ntags: $4\nhidden: true\n---\n&amp;emsp;&amp;emsp;本文将讨论$3分类下，$4的相关内容。$5\n&lt;!--more--&gt;\n&quot;,
+	&quot;description&quot;: &quot;博客信息&quot;
 &#125;
 
 &quot;锚点&quot;: &#123;
-    &quot;prefix&quot;: &quot;，md&quot;,
-    &quot;body&quot;: &quot;&lt;span id=\&quot;$1\&quot;&gt;**$1**&lt;/span&gt;$2\n\n[$1](#$1)$0&quot;,
-    &quot;description&quot;: &quot;锚点&quot;
+	&quot;prefix&quot;: &quot;，md&quot;,
+	&quot;body&quot;: &quot;&lt;span id=\&quot;$1\&quot;&gt;**$1**&lt;/span&gt;$2\n\n[$1](#$1)$0&quot;,
+	&quot;description&quot;: &quot;锚点&quot;
 &#125;
 
 &quot;网页链接&quot;: &#123;
-    &quot;prefix&quot;: &quot;，wl&quot;,
-    &quot;body&quot;: &quot;[$1](https://leonuxzy.github.io/$2/$1)&quot;,
-    &quot;description&quot;: &quot;网页链接&quot;
+	&quot;prefix&quot;: &quot;，wl&quot;,
+	&quot;body&quot;: &quot;[$1](https://leonuxzy.github.io/$2/$1)&quot;,
+	&quot;description&quot;: &quot;网页链接&quot;
 &#125;
 
 &quot;网页地址&quot;: &#123;
-    &quot;prefix&quot;: &quot;，wy&quot;,
-    &quot;body&quot;: &quot;https://leonuxzy.github.io/$0&quot;,
-    &quot;description&quot;: &quot;网页地址&quot;
+	&quot;prefix&quot;: &quot;，wy&quot;,
+	&quot;body&quot;: &quot;https://leonuxzy.github.io/$0&quot;,
+	&quot;description&quot;: &quot;网页地址&quot;
 &#125;
 
 &quot;加粗&quot;: &#123;
-    &quot;prefix&quot;: &quot;,b&quot;,
-    &quot;body&quot;: &quot;**$1**$0&quot;,
-    &quot;description&quot;: &quot;加粗&quot;
+	&quot;prefix&quot;: &quot;,b&quot;,
+	&quot;body&quot;: &quot;**$1**$0&quot;,
+	&quot;description&quot;: &quot;加粗&quot;
 &#125;
 
 &quot;横线&quot;: &#123;
-    &quot;prefix&quot;: &quot;,n&quot;,
-    &quot;body&quot;: &quot;\n\n---\n\n$0&quot;,
-    &quot;description&quot;: &quot;横线&quot;
+	&quot;prefix&quot;: &quot;,n&quot;,
+	&quot;body&quot;: &quot;\n\n---\n\n$0&quot;,
+	&quot;description&quot;: &quot;横线&quot;
 &#125;
 
 &quot;删除&quot;: &#123;
-    &quot;prefix&quot;: &quot;,s&quot;,
-    &quot;body&quot;: &quot;~~$1~~$0&quot;,
-    &quot;description&quot;: &quot;删除&quot;
+	&quot;prefix&quot;: &quot;,s&quot;,
+	&quot;body&quot;: &quot;~~$1~~$0&quot;,
+	&quot;description&quot;: &quot;删除&quot;
 &#125;
 
 &quot;斜体&quot;: &#123;
-    &quot;prefix&quot;: &quot;,i&quot;,
-    &quot;body&quot;: &quot;*$1*$0&quot;,
-    &quot;description&quot;: &quot;斜体&quot;
+	&quot;prefix&quot;: &quot;,i&quot;,
+	&quot;body&quot;: &quot;*$1*$0&quot;,
+	&quot;description&quot;: &quot;斜体&quot;
 &#125;
 
 &quot;Mermaid-LR&quot;: &#123;
-    &quot;prefix&quot;: &quot;，mlr&quot;,
-    &quot;body&quot;: &quot;\n~~~mermaid\ngraph LR\n$0\n~~~\n&quot;,
-    &quot;description&quot;: &quot;流程图LR&quot;
+	&quot;prefix&quot;: &quot;，mlr&quot;,
+	&quot;body&quot;: &quot;\n~~~mermaid\ngraph LR\n$0\n~~~\n&quot;,
+	&quot;description&quot;: &quot;流程图LR&quot;
 &#125;
 
 &quot;Mermaid-TB&quot;: &#123;
-    &quot;prefix&quot;: &quot;，mtb&quot;,
-    &quot;body&quot;: &quot;\n~~~mermaid\ngraph TB\n$0\n~~~\n&quot;,
-    &quot;description&quot;: &quot;流程图TB&quot;
+	&quot;prefix&quot;: &quot;，mtb&quot;,
+	&quot;body&quot;: &quot;\n~~~mermaid\ngraph TB\n$0\n~~~\n&quot;,
+	&quot;description&quot;: &quot;流程图TB&quot;
 &#125;
 
 &quot;Mermaid-Subgraph&quot;: &#123;
-    &quot;prefix&quot;: &quot;，msg&quot;,
-    &quot;body&quot;: &quot;\nsubgraph $1\n$0\nend\n&quot;,
-    &quot;description&quot;: &quot;Mermaid-Subgraph&quot;
+	&quot;prefix&quot;: &quot;，msg&quot;,
+	&quot;body&quot;: &quot;\nsubgraph $1\n$0\nend\n&quot;,
+	&quot;description&quot;: &quot;Mermaid-Subgraph&quot;
 &#125;
 
 &quot;blog-Mermaid-LR&quot;: &#123;
-    &quot;prefix&quot;: &quot;，blr&quot;,
-    &quot;body&quot;: &quot;\n&#123;% mermaid graph LR %&#125;\n$0\n&#123;% endmermaid %&#125;\n&quot;,
-    &quot;description&quot;: &quot;blog流程图LR&quot;
+	&quot;prefix&quot;: &quot;，blr&quot;,
+	&quot;body&quot;: &quot;\n&#123;% mermaid graph LR %&#125;\n$0\n&#123;% endmermaid %&#125;\n&quot;,
+	&quot;description&quot;: &quot;blog流程图LR&quot;
 &#125;
 
 &quot;blogMermaid-TB&quot;: &#123;
-    &quot;prefix&quot;: &quot;，btb&quot;,
-    &quot;body&quot;: &quot;\n&#123;% mermaid graph TB %&#125;\n$0\n&#123;% endmermaid %&#125;\n&quot;,
-    &quot;description&quot;: &quot;blog流程图TB&quot;
+	&quot;prefix&quot;: &quot;，btb&quot;,
+	&quot;body&quot;: &quot;\n&#123;% mermaid graph TB %&#125;\n$0\n&#123;% endmermaid %&#125;\n&quot;,
+	&quot;description&quot;: &quot;blog流程图TB&quot;
 &#125;
 
 &quot;起始点&quot;: &#123;
-    &quot;prefix&quot;: &quot;，qsd&quot;,
-    &quot;body&quot;: &quot;\n$1($1)\n$0&quot;,
-    &quot;description&quot;: &quot;起始点&quot;
+	&quot;prefix&quot;: &quot;，qsd&quot;,
+	&quot;body&quot;: &quot;\n$1($1)\n$0&quot;,
+	&quot;description&quot;: &quot;起始点&quot;
 &#125;
 
 &quot;圆节点&quot;: &#123;
-    &quot;prefix&quot;: &quot;，yjd&quot;,
-    &quot;body&quot;: &quot;$1 --- $2(($2))\n$0&quot;,
-    &quot;description&quot;: &quot;圆节点&quot;
+	&quot;prefix&quot;: &quot;，yjd&quot;,
+	&quot;body&quot;: &quot;$1 --- $2(($2))\n$0&quot;,
+	&quot;description&quot;: &quot;圆节点&quot;
 &#125;
 
 &quot;方节点&quot;: &#123;
-    &quot;prefix&quot;: &quot;，fjd&quot;,
-    &quot;body&quot;: &quot;$1 --- $2[$2]\n$0&quot;,
-    &quot;description&quot;: &quot;方节点&quot;
+	&quot;prefix&quot;: &quot;，fjd&quot;,
+	&quot;body&quot;: &quot;$1 --- $2[$2]\n$0&quot;,
+	&quot;description&quot;: &quot;方节点&quot;
 &#125;
 
 &quot;菱节点&quot;: &#123;
-    &quot;prefix&quot;: &quot;，ljd&quot;,
-    &quot;body&quot;: &quot;$1 --- $2&#123;$2&#125;\n$0&quot;,
-    &quot;description&quot;: &quot;菱节点&quot;
+	&quot;prefix&quot;: &quot;，ljd&quot;,
+	&quot;body&quot;: &quot;$1 --- $2&#123;$2&#125;\n$0&quot;,
+	&quot;description&quot;: &quot;菱节点&quot;
 &#125;
 
 &quot;表格&quot;: &#123;
-    &quot;prefix&quot;: &quot;，bg&quot;,
-    &quot;body&quot;: &quot;|    | $1 | $2 | $3\n:--:|:--:|:--:|:--:\n$0&quot;,
-    &quot;description&quot;: &quot;表格&quot;
+	&quot;prefix&quot;: &quot;，bg&quot;,
+	&quot;body&quot;: &quot;|    | $1 | $2 | $3\n:--:|:--:|:--:|:--:\n$0&quot;,
+	&quot;description&quot;: &quot;表格&quot;
 &#125;
 
 &quot;链接&quot;: &#123;
-    &quot;prefix&quot;: &quot;，lj&quot;,
-    &quot;body&quot;: &quot;[$1]($2)$0&quot;,
-    &quot;description&quot;: &quot;链接&quot;
+	&quot;prefix&quot;: &quot;，lj&quot;,
+	&quot;body&quot;: &quot;[$1]($2)$0&quot;,
+	&quot;description&quot;: &quot;链接&quot;
 &#125;
 
 &quot;换行&quot;: &#123;
-    &quot;prefix&quot;: &quot;，hh&quot;,
-    &quot;body&quot;: &quot;\n\n&quot;,
-    &quot;description&quot;: &quot;换行&quot;
+	&quot;prefix&quot;: &quot;，hh&quot;,
+	&quot;body&quot;: &quot;\n\n&quot;,
+	&quot;description&quot;: &quot;换行&quot;
 &#125;
 
 &quot;一级标题&quot;: &#123;
-    &quot;prefix&quot;: &quot;，yij&quot;,
-    &quot;body&quot;: &quot;\n# $1\n\n$0&quot;,
-    &quot;description&quot;: &quot;一级标题&quot;
+	&quot;prefix&quot;: &quot;，yij&quot;,
+	&quot;body&quot;: &quot;\n# $1\n\n$0&quot;,
+	&quot;description&quot;: &quot;一级标题&quot;
 &#125;
 
 &quot;二级标题&quot;: &#123;
-    &quot;prefix&quot;: &quot;，erj&quot;,
-    &quot;body&quot;: &quot;\n## （$1）$2\n\n$0&quot;,
-    &quot;description&quot;: &quot;二级标题&quot;
+	&quot;prefix&quot;: &quot;，erj&quot;,
+	&quot;body&quot;: &quot;\n## （$1）$2\n\n$0&quot;,
+	&quot;description&quot;: &quot;二级标题&quot;
 &#125;
 
 &quot;三级标题&quot;: &#123;
-    &quot;prefix&quot;: &quot;，saj&quot;,
-    &quot;body&quot;: &quot;\n### $1. $2\n\n$0&quot;,
-    &quot;description&quot;: &quot;三级标题&quot;
+	&quot;prefix&quot;: &quot;，saj&quot;,
+	&quot;body&quot;: &quot;\n### $1. $2\n\n$0&quot;,
+	&quot;description&quot;: &quot;三级标题&quot;
 &#125;
 
 &quot;四级标题&quot;: &#123;
-    &quot;prefix&quot;: &quot;，sij&quot;,
-    &quot;body&quot;: &quot;\n#### （$1）$2\n\n$0&quot;,
-    &quot;description&quot;: &quot;四级标题&quot;
+	&quot;prefix&quot;: &quot;，sij&quot;,
+	&quot;body&quot;: &quot;\n#### （$1）$2\n\n$0&quot;,
+	&quot;description&quot;: &quot;四级标题&quot;
 &#125;
 
 &quot;五级标题&quot;: &#123;
-    &quot;prefix&quot;: &quot;，wuj&quot;,
-    &quot;body&quot;: &quot;\n##### $1\n\n$0&quot;,
-    &quot;description&quot;: &quot;五级标题&quot;
+	&quot;prefix&quot;: &quot;，wuj&quot;,
+	&quot;body&quot;: &quot;\n##### $1\n\n$0&quot;,
+	&quot;description&quot;: &quot;五级标题&quot;
 &#125;
 
 &quot;其他标题&quot;: &#123;
-    &quot;prefix&quot;: &quot;，bt&quot;,
-    &quot;body&quot;: &quot;\n######$1 $2. $3\n\n$0&quot;,
-    &quot;description&quot;: &quot;其他标题&quot;
+	&quot;prefix&quot;: &quot;，bt&quot;,
+	&quot;body&quot;: &quot;\n######$1 $2. $3\n\n$0&quot;,
+	&quot;description&quot;: &quot;其他标题&quot;
 &#125;
 
 &quot;下一段&quot;: &#123;
-    &quot;prefix&quot;: &quot;，xyd&quot;,
-    &quot;body&quot;: &quot;\n\n&amp;emsp;&amp;emsp;$0&quot;,
-    &quot;description&quot;: &quot;下一段首行缩进&quot;
+	&quot;prefix&quot;: &quot;，xyd&quot;,
+	&quot;body&quot;: &quot;\n\n&amp;emsp;&amp;emsp;$0&quot;,
+	&quot;description&quot;: &quot;下一段首行缩进&quot;
 &#125;
 
 &quot;引用符号&quot;: &#123;
-    &quot;prefix&quot;: &quot;。yy&quot;,
-    &quot;body&quot;: &quot;\n&gt;**$1**\n\n$0&quot;,
-    &quot;description&quot;: &quot;引用符号&quot;
+	&quot;prefix&quot;: &quot;。yy&quot;,
+	&quot;body&quot;: &quot;\n&gt;**$1**\n\n$0&quot;,
+	&quot;description&quot;: &quot;引用符号&quot;
 &#125;
 
 &quot;隐藏内容&quot;: &#123;
-    &quot;prefix&quot;: &quot;，yc&quot;,
-    &quot;body&quot;: &quot;\n&lt;!--$1--&gt;\n\n$0&quot;,
-    &quot;description&quot;: &quot;隐藏内容&quot;
+	&quot;prefix&quot;: &quot;，yc&quot;,
+	&quot;body&quot;: &quot;\n&lt;!--$1--&gt;\n\n$0&quot;,
+	&quot;description&quot;: &quot;隐藏内容&quot;
 &#125;
 
 &#125;
 &quot;分两栏&quot;: &#123;
-    &quot;prefix&quot;: &quot;，fl&quot;,
-    &quot;body&quot;: &quot;\n\n\\begin&#123;paracol&#125;&#123;2&#125;\n\n$1\n\n\\end&#123;paracol&#125;\n\n$0&quot;,
-    &quot;description&quot;: &quot;分两栏&quot;
+	&quot;prefix&quot;: &quot;，fl&quot;,
+	&quot;body&quot;: &quot;\n\n\\begin&#123;paracol&#125;&#123;2&#125;\n\n$1\n\n\\end&#123;paracol&#125;\n\n$0&quot;,
+	&quot;description&quot;: &quot;分两栏&quot;
 &#125;
 
 &quot;分栏转换&quot;: &#123;
-    &quot;prefix&quot;: &quot;，hl&quot;,
-    &quot;body&quot;: &quot;\n\n\\switchcolumn\n\n\\noindent\n$1\n\n\\switchcolumn*\n\n$0&quot;,
-    &quot;description&quot;: &quot;分栏转换&quot;
+	&quot;prefix&quot;: &quot;，hl&quot;,
+	&quot;body&quot;: &quot;\n\n\\switchcolumn\n\n\\noindent\n$1\n\n\\switchcolumn*\n\n$0&quot;,
+	&quot;description&quot;: &quot;分栏转换&quot;
 &#125;
 
 &quot;LaTex脚注&quot;: &#123;
-    &quot;prefix&quot;: &quot;，ljz&quot;,
-    &quot;body&quot;: &quot;\\footnote&#123;$1&#125;$0&quot;,
-    &quot;description&quot;: &quot;LaTex脚注&quot;
+	&quot;prefix&quot;: &quot;，ljz&quot;,
+	&quot;body&quot;: &quot;\\footnote&#123;$1&#125;$0&quot;,
+	&quot;description&quot;: &quot;LaTex脚注&quot;
 &#125;
 
 &quot;LaTex封面&quot;: &#123;
-    &quot;prefix&quot;: &quot;，lfm&quot;,
-    &quot;body&quot;: &quot;\n\n\\author&#123;张宇\\\\斜杠[2pt]&#125;\n\\renewcommand&#123;\\today&#125;&#123;\\number\\month 月 \\number\\day 日&#125;\n\\date&#123;\\today&#125;\n\n\\begin&#123;figure&#125;[t]\n    \\centering\n    \\includegraphics[width=13cm]&#123;logo.png&#125;\n\\end&#123;figure&#125;\n\\maketitle\n\\thispagestyle&#123;empty&#125;\n\n\\\\newpage\n\\thispagestyle&#123;empty&#125;\n\\begin&#123;table&#125;[t]\n    \\centering\n    \\large\n    \\begin&#123;tabular&#125;&#123;ll&#125;\n        \\Large\\textbf&#123;摘 \\quad 要&#125;\n    \\end&#123;tabular&#125;\n\\end&#123;table&#125;\n\\begin&#123;abstract&#125;\n    本文出自教育学综合，名词解释部分内容。 \\\\斜杠\n    \\par\\textbf&#123;关键词：&#125;教育 教育学 教育学原理\n\\end&#123;abstract&#125;\n\n\\newpage\n\\pagenumbering&#123;Roman&#125;\n\\setcounter&#123;page&#125;&#123;1&#125;\n\\renewcommand\\contentsname&#123;目录&#125;\n\\tableofcontents\n\n\\newpage\n\\setcounter&#123;page&#125;&#123;1&#125;\n\\pagenumbering&#123;arabic&#125;\n\n&quot;,
-    &quot;description&quot;: &quot;LaTex封面&quot;
-&#125;</code></pre>
+	&quot;prefix&quot;: &quot;，lfm&quot;,
+	&quot;body&quot;: &quot;\n\n\\author&#123;张宇\\\\斜杠[2pt]&#125;\n\\renewcommand&#123;\\today&#125;&#123;\\number\\month 月 \\number\\day 日&#125;\n\\date&#123;\\today&#125;\n\n\\begin&#123;figure&#125;[t]\n    \\centering\n    \\includegraphics[width=13cm]&#123;logo.png&#125;\n\\end&#123;figure&#125;\n\\maketitle\n\\thispagestyle&#123;empty&#125;\n\n\\\\newpage\n\\thispagestyle&#123;empty&#125;\n\\begin&#123;table&#125;[t]\n    \\centering\n    \\large\n    \\begin&#123;tabular&#125;&#123;ll&#125;\n        \\Large\\textbf&#123;摘 \\quad 要&#125;\n    \\end&#123;tabular&#125;\n\\end&#123;table&#125;\n\\begin&#123;abstract&#125;\n    本文出自教育学综合，名词解释部分内容。 \\\\斜杠\n    \\par\\textbf&#123;关键词：&#125;教育 教育学 教育学原理\n\\end&#123;abstract&#125;\n\n\\newpage\n\\pagenumbering&#123;Roman&#125;\n\\setcounter&#123;page&#125;&#123;1&#125;\n\\renewcommand\\contentsname&#123;目录&#125;\n\\tableofcontents\n\n\\newpage\n\\setcounter&#123;page&#125;&#123;1&#125;\n\\pagenumbering&#123;arabic&#125;\n\n&quot;,
+	&quot;description&quot;: &quot;LaTex封面&quot;
+&#125;
+</code></pre>
 <p>}</p>
 <!-- flag of hidden posts -->
     </div>
