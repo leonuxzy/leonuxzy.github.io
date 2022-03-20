@@ -19,7 +19,7 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"leonuxzy.github.io","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":"default"},"back2top":{"enable":true,"sidebar":true,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":-1,"unescape":true,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+    var CONFIG = {"hostname":"leonuxzy.github.io","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":"default"},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":-1,"unescape":true,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
   <meta name="description" content="本文将用列表的方式，简单介绍笔记软件Vnote的主要操作。">
@@ -180,6 +180,10 @@
     </header>
 
     
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
   <div class="reading-progress-bar"></div>
   <a role="button" class="book-mark-link book-mark-link-fixed"></a>
 
@@ -267,7 +271,8 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>本文将用列表的方式，简单介绍笔记软件Vnote的主要操作。 <span id="more"></span> # 1. 软件快捷键</p>
+        <p>本文将用列表的方式，简单介绍笔记软件Vnote的主要操作。 <span id="more"></span> #
+1. 软件快捷键</p>
 <table>
 <thead>
 <tr class="header">
@@ -539,7 +544,8 @@
 增加或减小缩进。如果已经选择文本，则对所有选择的行进行缩进操作。</li>
 <li><code>Shift+Enter</code><br />
 插入两个空格然后换行，在Markdown中类似于软换行的概念。</li>
-<li><code>Shift+Left</code>, <code>Shift+Right</code>, <code>Shift+Up</code>, <code>Shift+Down</code><br />
+<li><code>Shift+Left</code>, <code>Shift+Right</code>,
+<code>Shift+Up</code>, <code>Shift+Down</code><br />
 扩展选定左右一个字符，或上下一行。</li>
 <li><code>Ctrl+Shift+Left</code>, <code>Ctrl+Shift+Right</code><br />
 扩展选定到单词开始或结尾。</li>
@@ -622,30 +628,45 @@
 显示本快捷键说明。</li>
 </ul>
 <h2 id="展览模式">展览模式</h2>
-<p>在舰长模式中，<code>W</code>命令会进入 <strong>展览模式</strong>。在展览模式中，VNote会在常用的主要部件上显示至多两个字母，此时输入对应的字母即可跳转到该部件中，从而实现快速切换焦点并触发功能。</p>
+<p>在舰长模式中，<code>W</code>命令会进入
+<strong>展览模式</strong>。在展览模式中，VNote会在常用的主要部件上显示至多两个字母，此时输入对应的字母即可跳转到该部件中，从而实现快速切换焦点并触发功能。</p>
 <h1 id="vim-mode">Vim Mode</h1>
-<p>VNote支持一个简单但有用的Vim模式，包括 <strong>正常</strong>， <strong>插入</strong>， <strong>可视</strong>， <strong>可视行</strong> 模式。</p>
+<p>VNote支持一个简单但有用的Vim模式，包括 <strong>正常</strong>，
+<strong>插入</strong>， <strong>可视</strong>， <strong>可视行</strong>
+模式。</p>
 <div class="alert-info">
 <p>在<code>文件</code>菜单中选择<code>设置</code>打开对话框，跳转到<code>阅读/编辑</code>标签页，在<code>按键模式</code>下拉框中选择开启Vim即可。需要重启VNote以生效。</p>
 </div>
 <p>VNote支持以下几个Vim的特性：</p>
 <ul>
-<li><code>r</code>, <code>s</code>, <code>S</code>, <code>i</code>, <code>I</code>, <code>a</code>, <code>A</code>, <code>c</code>, <code>C</code>, <code>o</code>, <code>O</code>;</li>
-<li>操作 <code>d</code>, <code>c</code>, <code>y</code>, <code>p</code>, <code>&lt;</code>, <code>&gt;</code>, <code>gu</code>, <code>gU</code>, <code>J</code>, <code>gJ</code>, <code>~</code>；</li>
-<li>移动 <code>h/j/k/l</code>, <code>gj/gk/g0</code>, <code>Ctrl+U</code>, <code>Ctrl+D</code>, <code>gg</code>, <code>G</code>, <code>0</code>, <code>^</code>, <code>&#123;</code>, <code>&#125;</code>, <code>$</code>；</li>
+<li><code>r</code>, <code>s</code>, <code>S</code>, <code>i</code>,
+<code>I</code>, <code>a</code>, <code>A</code>, <code>c</code>,
+<code>C</code>, <code>o</code>, <code>O</code>;</li>
+<li>操作 <code>d</code>, <code>c</code>, <code>y</code>, <code>p</code>,
+<code>&lt;</code>, <code>&gt;</code>, <code>gu</code>, <code>gU</code>,
+<code>J</code>, <code>gJ</code>, <code>~</code>；</li>
+<li>移动 <code>h/j/k/l</code>, <code>gj/gk/g0</code>,
+<code>Ctrl+U</code>, <code>Ctrl+D</code>, <code>gg</code>,
+<code>G</code>, <code>0</code>, <code>^</code>, <code>&#123;</code>,
+<code>&#125;</code>, <code>$</code>；</li>
 <li>标记 <code>a-z</code>；</li>
-<li>寄存器 <code>"</code>, <code>_</code>, <code>+</code>, <code>a-z</code>(<code>A-Z</code>)；</li>
+<li>寄存器 <code>"</code>, <code>_</code>, <code>+</code>,
+<code>a-z</code>(<code>A-Z</code>)；</li>
 <li>跳转位置列表 (<code>Ctrl+O</code> and <code>Ctrl+I</code>)；</li>
 <li>前导键 (<code>Space</code>)
 <ul>
-<li>目前 <code>&lt;leader&gt;y/d/p</code> 等同于 <code>"+y/d/p</code>, 从而可以访问系统剪切板；</li>
+<li>目前 <code>&lt;leader&gt;y/d/p</code> 等同于 <code>"+y/d/p</code>,
+从而可以访问系统剪切板；</li>
 <li><code>&lt;leader&gt;&lt;Space&gt;</code> 清除查找高亮；</li>
 <li><code>&lt;leader&gt;w</code> 保存笔记；</li>
 </ul></li>
 <li><code>zz</code>, <code>zb</code>, <code>zt</code>;</li>
 <li><code>u</code> 和 <code>Ctrl+R</code> 撤销和重做；</li>
-<li>文本对象 <code>i/a</code>：word, WORD, <code>''</code>, <code>""</code>, <code>` `</code>, <code>()</code>, <code>[]</code>, <code>&lt;&gt;</code>, <code>&#123;&#125;</code>;</li>
-<li>命令行 <code>:w</code>, <code>:wq</code>, <code>:x</code>, <code>:q</code>, <code>:q!</code>, <code>:noh[lsearch]</code>;</li>
+<li>文本对象 <code>i/a</code>：word, WORD, <code>''</code>,
+<code>""</code>, <code>` `</code>, <code>()</code>, <code>[]</code>,
+<code>&lt;&gt;</code>, <code>&#123;&#125;</code>;</li>
+<li>命令行 <code>:w</code>, <code>:wq</code>, <code>:x</code>,
+<code>:q</code>, <code>:q!</code>, <code>:noh[lsearch]</code>;</li>
 <li>标题跳转
 <ul>
 <li><code>[[</code>：跳转到上一个标题；</li>
@@ -669,7 +690,8 @@
 <h1 id="其他">其他</h1>
 <ul>
 <li><code>Ctrl+J</code> 和 <code>Ctrl+K</code> 浏览导航；</li>
-<li>在列表中，<code>Ctrl+N</code> 和 <code>Ctrl+P</code> 在搜索结果中导航；</li>
+<li>在列表中，<code>Ctrl+N</code> 和 <code>Ctrl+P</code>
+在搜索结果中导航；</li>
 </ul>
 
     </div>
@@ -826,10 +848,6 @@
 
 
       </div>
-        <div class="back-to-top motion-element">
-          <i class="fa fa-arrow-up"></i>
-          <span>0%</span>
-        </div>
 
     </div>
   </aside>
